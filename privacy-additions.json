@@ -1,0 +1,46 @@
+{
+  "uk-UA": {
+    "publisher": "Видавець і контакт",
+    "logsTitle": "Зовнішні журнали",
+    "rightsTitle": "Ваші права",
+    "termsTitle": "Умови користування",
+    "services": "Для прогнозу Open-Meteo отримує координати обраного місця (вибране місто або координати після дозволу геолокації) та IP-адресу. OpenStreetMap отримує запити тайлів карти та IP-адресу. Overpass отримує центр і радіус пошуку, IP-адресу й технічні відомості. Маршрут відкриває Google Maps із координатами водойми за вашою дією. Сервіси мають власні політики.",
+    "retention": "Локальні налаштування залишаються до зміни, очищення даних або видалення застосунку. Кеш погоди використовується до шести годин; старі записи можуть залишатися до заміни чи очищення. Android запитує лише приблизне місцеперебування за вашою дією. Його можна не дозволяти та обрати місто вручну.",
+    "logs": "Запити погоди й карт передаються через HTTPS. Open-Meteo вказує видалення журналів API протягом 90 днів. Інші сервіси мають власні строки. Системні служби місцеперебування працюють відповідно до налаштувань Android і Google Play services.",
+    "rights": "Для питань про доступ, виправлення чи видалення персональних даних звертайтеся на {{email}}. Можна також звернутися до уповноваженого органу захисту даних. Локальні дані очищаються в налаштуваннях Android; для журналів зовнішніх сервісів діють їхні процедури.",
+    "terms": "Кльов допомагає планувати риболовлю. Поточна версія не потребує реєстрації або покупок. Прогноз є розрахунковим і не гарантує улову. Перед поїздкою перевірте доступ до водойми, дозволи та чинні місцеві обмеження."
+  },
+  "en-US": {
+    "publisher": "Publisher and contact",
+    "logsTitle": "External logs",
+    "rightsTitle": "Your rights",
+    "termsTitle": "Terms of use",
+    "services": "Open-Meteo receives the selected location coordinates (a chosen town or coordinates obtained with location permission) and your IP address for forecasts. OpenStreetMap receives map tile requests and IP addresses. Overpass receives the search centre and radius, IP addresses and technical request details. Directions open Google Maps with the waterbody coordinates when you choose that action. These services have their own policies.",
+    "retention": "Local settings remain until changed, app data is cleared or the app is uninstalled. Cached weather is used for up to six hours; older entries may remain until replaced or cleared. Android requests only approximate location after your action. You may refuse and choose a town manually.",
+    "logs": "Weather and map requests use HTTPS. Open-Meteo states that API logs are deleted within 90 days. Other services have their own retention periods. System location services follow your Android and Google Play services settings.",
+    "rights": "For access, correction or deletion enquiries, contact {{email}}. You may also contact the competent data protection authority. Local data can be cleared in Android settings; external service logs follow the respective providers’ procedures.",
+    "terms": "Kliov helps plan fishing trips. This version needs no registration or purchases. Forecasts are estimates and do not guarantee a catch. Check water access, permits and current local restrictions before your trip."
+  },
+  "pl-PL": {
+    "publisher": "Wydawca i kontakt",
+    "logsTitle": "Dzienniki usług",
+    "rightsTitle": "Twoje prawa",
+    "termsTitle": "Warunki korzystania",
+    "services": "Open-Meteo otrzymuje współrzędne wybranego miejsca (miasto lub współrzędne uzyskane za zgodą na lokalizację) oraz adres IP. OpenStreetMap otrzymuje zapytania o fragmenty mapy i adres IP. Overpass otrzymuje środek i promień wyszukiwania, adres IP i informacje techniczne. Wybranie trasy otwiera Mapy Google ze współrzędnymi wody. Usługi mają własne polityki.",
+    "retention": "Ustawienia lokalne pozostają do zmiany, wyczyszczenia danych lub odinstalowania aplikacji. Zapisana pogoda jest używana do sześciu godzin; starsze wpisy mogą pozostać do zastąpienia lub usunięcia. Android prosi tylko o przybliżoną lokalizację po Twoim działaniu. Możesz odmówić i wybrać miasto ręcznie.",
+    "logs": "Zapytania o pogodę i mapy korzystają z HTTPS. Open-Meteo deklaruje usuwanie dzienników API w ciągu 90 dni. Inne usługi mają własne terminy. Systemowe usługi lokalizacji działają zgodnie z ustawieniami Androida i Google Play services.",
+    "rights": "W sprawach dostępu, sprostowania lub usunięcia danych napisz na {{email}}. Możesz też zwrócić się do właściwego organu ochrony danych. Dane lokalne usuwa się w ustawieniach Androida; dzienniki zewnętrzne podlegają procedurom ich dostawców.",
+    "terms": "Kliov pomaga planować wyprawy na ryby. Ta wersja nie wymaga rejestracji ani zakupów. Prognozy są szacunkowe i nie gwarantują połowu. Przed wyjazdem sprawdź dostęp, zezwolenia i aktualne ograniczenia lokalne."
+  },
+  "ro-RO": {
+    "publisher": "Editor și contact",
+    "logsTitle": "Jurnale externe",
+    "rightsTitle": "Drepturile tale",
+    "termsTitle": "Condiții de utilizare",
+    "services": "Open-Meteo primește coordonatele locației selectate (localitatea aleasă sau coordonatele obținute cu permisiunea de localizare) și adresa IP. OpenStreetMap primește cereri pentru fragmente de hartă și adresa IP. Overpass primește centrul și raza căutării, adresa IP și informații tehnice. Traseul deschide Google Maps cu coordonatele apei la alegerea ta. Serviciile au propriile politici.",
+    "retention": "Setările locale rămân până la modificare, ștergerea datelor sau dezinstalare. Vremea salvată se folosește până la șase ore; datele vechi pot rămâne până la înlocuire sau ștergere. Android cere doar locația aproximativă după acțiunea ta. Poți refuza și selecta localitatea manual.",
+    "logs": "Cererile meteo și pentru hartă folosesc HTTPS. Open-Meteo declară ștergerea jurnalelor API în 90 de zile. Alte servicii au propriile termene. Localizarea sistemului respectă setările Android și Google Play services.",
+    "rights": "Pentru acces, corectare sau ștergere, scrie la {{email}}. Te poți adresa și autorității competente de protecție a datelor. Datele locale se șterg din setările Android; jurnalele externe urmează procedurile furnizorilor.",
+    "terms": "Kliov ajută la planificarea pescuitului. Această versiune nu necesită înregistrare sau achiziții. Prognozele sunt estimări și nu garantează capturi. Verifică accesul, permisele și restricțiile locale înainte de plecare."
+  }
+}
